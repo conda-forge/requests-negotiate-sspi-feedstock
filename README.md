@@ -1,11 +1,11 @@
-About requests-negotiate-sspi
-=============================
+About requests-negotiate-sspi-feedstock
+=======================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/requests-negotiate-sspi-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/brandond/requests-negotiate-sspi
 
 Package license: APACHE-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/requests-negotiate-sspi-feedstock/blob/main/LICENSE.txt)
 
 Summary: Windows SSPI-based Negotiate authentication support for Requests
 
@@ -40,6 +40,13 @@ Current build status
               <td>
                 <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=8393&branchName=main">
                   <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/requests-negotiate-sspi-feedstock?branchName=main&jobName=win&configuration=win%20win_64_python3.11.____cpython" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>win_64_python3.12.____cpython</td>
+              <td>
+                <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=8393&branchName=main">
+                  <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/requests-negotiate-sspi-feedstock?branchName=main&jobName=win&configuration=win%20win_64_python3.12.____cpython" alt="variant">
                 </a>
               </td>
             </tr><tr>
