@@ -11,13 +11,14 @@ source:
 
 build:
   skip: true  # [not win]
-  number: 3
+  number: 4
   script: {{ PYTHON }} -m pip install . -vv
 
 requirements:
   host:
     - python
     - pip
+    - setuptools
   run:
     - python
     - pywin32 >=223
