@@ -30,8 +30,8 @@ test:
 
 about:
   home: https://github.com/brandond/requests-negotiate-sspi
-  license: APACHE-2.0
-  license_family: APACHE
+  license: Apache-2.0
+  license_family: Apache
   license_file: LICENSE.txt
   summary: Windows SSPI-based Negotiate authentication support for Requests
   dev_url: https://github.com/brandond/requests-negotiate-sspi
